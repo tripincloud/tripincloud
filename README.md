@@ -9,7 +9,7 @@
   
   [YouTube video](https://www.youtube.com/watch?v=M2HeJXddtcc)
   
-[<img src="Blico-min.gif" alt="Blico-min" style="width: 640px;"/>]
+  <img src="Blico-min.gif" alt="Blico-min" style="width: 640px;"/>
 
 <!--
 **tripincloud/tripincloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
