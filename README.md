@@ -14,6 +14,7 @@
   [ImagineCup](https://imaginecup.microsoft.com/en-us/Events) Winner in Switzerland, World Cup Semi-finalist.
   
   Project: Lumen an assistant for the visually impaired.
+  
   [Youtube Video](https://www.youtube.com/watch?v=dF65xZh1xRg)
   
   <img src="lumen.png" alt="lumen" style="width: 640px;"/>
