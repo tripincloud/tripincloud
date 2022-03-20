@@ -12,7 +12,7 @@
   
   [YouTube video](https://www.youtube.com/watch?v=M2HeJXddtcc)
   
-  <img src="Blico-min.gif" alt="Blico-min" style="width: 640px;"/>
+  <img src="Blico-min.gif" alt="Blico-min" style="width: 640px;"/>(https://github.com/tripincloud/Lumen)
   
   - [ImagineCup](https://imaginecup.microsoft.com/en-us/Events) Winner in Switzerland, World Cup Semi-finalist.
   
