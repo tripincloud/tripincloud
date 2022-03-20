@@ -6,7 +6,7 @@
 - :trophy: Latest achievement:
   - [NASA Space Apps Challenge](https://www.spaceappschallenge.org/) Winner in France. Project : Eye Above a 3D real time space debris mapper and predictor of satellites trajectories to avoid accidents.
   
-   [<img src="eye_above.PNG" alt="nasa_challenge" style="width: 640px;"/>]
+   [<img src="eye_above.PNG" alt="nasa_challenge" style="width: 640px;"/>](https://github.com/tripincloud/ACES-NASA)
 
   - Co-Developed [Blico](https://github.com/nodiz/Blico) for [Lauzhack](https://lauzhack.com/) 2020 - Winner of the [SBB challenge](https://devpost.com/software/blinddetector)
   
