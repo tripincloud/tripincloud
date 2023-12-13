@@ -8,7 +8,7 @@
   
    [<img src="eye_above.PNG" alt="nasa_challenge" style="width: 640px;"/>](https://github.com/tripincloud/ACES-NASA)
 
-  - Co-Developed [Blico](https://github.com/nodiz/Blico) for [Lauzhack](https://lauzhack.com/) 2020 - Winner of the [SBB challenge](https://devpost.com/software/blinddetector)
+  - Co-Developed [Blico](https://github.com/nodiz/Blico) for [Lauzhack](https://lauzhack.com/) - Winner of the [SBB challenge](https://devpost.com/software/blinddetector)
   
   [YouTube video](https://www.youtube.com/watch?v=M2HeJXddtcc)
   
